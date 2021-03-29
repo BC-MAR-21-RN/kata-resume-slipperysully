@@ -58,11 +58,11 @@ educationcomplete:
 
 # Registra aquí tu experiencia. Agrega o elimina según sea necesario
 experiences:
-  - role: -
-    time: -
-    company: -
+  - role: none
+    time: none
+    company: none
     details: |
-      -
+      none
 
 # Registra aquí tus habilidades técnicas, para level utiliza:
 # 20% para Novice
